@@ -2,7 +2,7 @@
 Make your own Custom Skins for Abelton with just a few clicks.
 
 ## Setup
-Just download it here : ![Download]("https://github.com/JWLMT88/abelton-skin-creator/releases/tag/alpha")
+Just download it here : [Download](https://github.com/JWLMT88/abelton-skin-creator/releases/download/alpha/ACS.zip)
 
 ## Notes
 
