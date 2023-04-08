@@ -1,10 +1,6 @@
 # abelton-skin-creator
 Make your own Custom Skins for Abelton with just a few clicks.
 
-## Screenshots
-![image](https://user-images.githubusercontent.com/120219149/230730028-26b4ef64-f0cf-4db7-8490-e0446176edda.png)
-![image](https://user-images.githubusercontent.com/120219149/230730042-c62424b0-de51-41d0-896b-6c3f51f09d33.png)
-
 
 ## Notes
 
