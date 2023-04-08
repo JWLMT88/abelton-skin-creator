@@ -3,7 +3,7 @@ Make your own Custom Skins for Abelton with just a few clicks.
 
 ## Setup
 - Just download it here : [Download](https://github.com/JWLMT88/abelton-skin-creator/releases/download/alpha/ACS.zip)
-- Example : [Download](https://github.com/JWLMT88/abelton-skin-creator/releases/download/alpha/DaemonChills.ask)
+- Example : [Download](https://github.com/JWLMT88/abelton-skin-creator/releases/download/alpha/DaemonChills.ask) (You can open this with under File > Open | Edit how you like it and save it.)
 
 ## Notes
 
