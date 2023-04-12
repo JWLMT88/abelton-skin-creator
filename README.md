@@ -5,6 +5,7 @@ Make your own Custom Skins for Abelton with just a few clicks.
 - Just download it here : [Download](https://github.com/JWLMT88/abelton-skin-creator/releases/download/alpha/ACS.zip)
 - Example : [Download](https://github.com/JWLMT88/abelton-skin-creator/releases/download/alpha/DaemonChills.ask) (You can open this with under File > Open | Edit and save it.)
 
+Youre Presets living under C.ProgramFiles.Ableton.Live{Youre Version(Suite/Trail/Lite)} {Ableton Version}.
 ## Notes
 
 Preview is open to discussion I have 3 options for this as I see it
